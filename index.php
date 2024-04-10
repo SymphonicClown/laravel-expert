@@ -1,0 +1,20 @@
+<?php
+echo 1;
+The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode:
+ 
+Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: The stream or file "/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/logs/laravel.log" could not be opened in append mode: 
+    Failed to open stream: Permission denied The exception occurred while attempting to log: file_put_contents(/var/www/korobov-vladislav.ru/public_html/laravel-expert/storage/framework/views/a725f3b7abd4f6f62212fa59ecd6ff4d.php): 
+    Failed to open stream: Permission denied Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}} Context: {"exception":{}}
